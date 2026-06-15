@@ -1,0 +1,31 @@
+# Week 4 - Azure Data Factory Pipeline Project
+
+## Objective
+Implement an end-to-end data pipeline using Azure Storage Account, Blob Container, and Azure Data Factory.
+
+## Tasks Performed
+
+1. Created Azure Resource Group
+2. Created Storage Account
+3. Created Blob Container
+4. Uploaded Superstore CSV dataset
+5. Created Azure Data Factory
+6. Configured Linked Services
+7. Created Source and Sink Datasets
+8. Built Copy Data Pipeline
+9. Executed and Monitored Pipeline
+10. Validated Data Movement
+
+## Dataset
+Superstore Dataset (Kaggle)
+
+## Tools Used
+- Microsoft Azure
+- Azure Storage Account
+- Azure Blob Storage
+- Azure Data Factory
+
+## Deliverables
+- Assignment Report PDF
+- Pipeline Screenshots
+- Execution Results
