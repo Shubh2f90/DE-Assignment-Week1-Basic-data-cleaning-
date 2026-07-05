@@ -1,0 +1,71 @@
+Customer ID,Customer Name,Segment,Region,State,City,Total_Orders,Total_Sales,Total_Profit,Avg_Discount,Last_Order_Date,Customer_Status,Record_Version
+DP-13105,Dave Poirier,Corporate,West,California,Los Angeles,3,218.51,42.41,0.0,12/31/2024,Active,2
+MS-17710,Maurice Satty,Consumer,West,Arizona,Mesa,3,49.01,-5.95,0.533,12/31/2024,Active,2
+CD-11980,Carol Darley,Consumer,West,Oregon,Medford,3,28.5,7.74,0.2,12/31/2024,Active,2
+SJ-20125,Sanjit Jacobs,Home Office,Central,Texas,Dallas,3,210.65,43.61,0.4,12/31/2024,Active,2
+NP-18700,Nora Preis,Consumer,West,Washington,Seattle,3,551.68,52.77,0.0,12/31/2024,Active,2
+BP-11095,Bart Pistole,Corporate,East,New York,New York City,4,372.69,23.92,0.067,12/31/2024,Active,2
+KA-16525,Kelly Andreada,Consumer,West,California,Ontario,3,326.51,-46.14,0.2,12/31/2024,Active,2
+CL-12565,Clay Ludtke,Consumer,East,New York,Long Beach,3,1278.13,383.94,0.1,12/31/2024,Active,2
+ME-18010,Michelle Ellison,Corporate,East,Ohio,Marion,3,58.85,-6.4,0.2,12/31/2024,Active,2
+AW-10840,Anthony Witt,Consumer,Central,Texas,Allen,3,34.8,-13.88,0.5,12/31/2024,Active,2
+DM-13345,Denise Monton,Corporate,South,North Carolina,Asheville,3,9.05,0.89,0.2,12/31/2024,Active,2
+NF-18475,Neil Französisch,Home Office,West,Nevada,Reno,3,5.42,0.0,0.0,12/31/2024,Active,2
+ON-18715,Odella Nelson,Corporate,Central,Texas,Houston,3,54.48,-44.99,0.5,12/31/2024,Active,2
+DP-13390,Dennis Pardue,Home Office,West,Nevada,North Las Vegas,3,5387.84,1691.31,0.067,12/31/2024,Active,2
+JC-15775,John Castell,Consumer,South,Georgia,Macon,3,171.99,56.12,0.0,12/31/2024,Active,2
+DB-13555,Dorothy Badders,Corporate,South,North Carolina,Raleigh,3,1169.71,117.51,0.2,12/31/2024,Active,2
+CS-12355,Christine Sundaresam,Consumer,East,Connecticut,Fairfield,3,72.38,30.21,0.0,12/31/2024,Active,2
+JD-15790,John Dryer,Consumer,East,New Jersey,Belleville,3,262.15,36.47,0.0,12/31/2024,Active,2
+LS-16975,Lindsay Shagiari,Home Office,Central,Texas,Houston,3,10.65,-13.9,0.8,12/31/2024,Active,2
+LA-16780,Laura Armstrong,Corporate,Central,Illinois,Tinley Park,3,25.63,-8.92,0.6,12/31/2024,Active,2
+DJ-13510,Don Jones,Corporate,East,Rhode Island,Woonsocket,3,104.81,44.66,0.0,12/31/2024,Active,2
+MT-18070,Michelle Tran,Home Office,West,California,Los Angeles,3,947.28,2.05,0.117,12/31/2024,Active,2
+GA-14725,Guy Armstrong,Consumer,West,California,Los Angeles,3,174.72,51.68,0.067,12/31/2024,Active,2
+AS-10240,Alan Shonely,Consumer,East,Ohio,Cleveland,3,68.06,-31.92,0.45,12/31/2024,Active,2
+CC-12145,Charles Crestani,Consumer,Central,Texas,El Paso,3,54.65,-2.04,0.3,12/31/2024,Active,2
+TB-21400,Tom Boeckenhauer,Consumer,West,California,Los Angeles,3,196.5,20.61,0.1,12/31/2024,Active,2
+HM-14860,Harry Marie,Corporate,Central,Missouri,Springfield,3,5646.05,2306.74,0.0,12/31/2024,Active,2
+BT-11680,Brian Thompson,Consumer,Central,Texas,Houston,4,1152.63,-199.21,0.3,12/31/2024,Active,2
+AB-10060,Adam Bellavance,Home Office,West,Washington,Seattle,3,2984.7,326.27,0.067,12/31/2024,Active,2
+BF-11020,Barry Französisch,Corporate,Central,Wisconsin,Green Bay,3,26.13,10.22,0.0,12/31/2024,Active,2
+CY-12745,Craig Yedwab,Corporate,East,Ohio,Springfield,3,1030.33,190.39,0.2,12/31/2024,Active,2
+CM-12715,Craig Molinari,Corporate,East,Pennsylvania,Philadelphia,3,78.81,3.29,0.367,12/31/2024,Active,2
+TC-20980,Tamara Chand,Corporate,South,Alabama,Decatur,3,600.21,195.98,0.0,12/31/2024,Active,2
+YS-21880,Yana Sorensen,Corporate,South,Alabama,Montgomery,3,525.6,88.67,0.0,12/31/2024,Active,2
+BM-11650,Brian Moss,Corporate,Central,Nebraska,Omaha,3,79.02,21.52,0.0,12/31/2024,Active,2
+HK-14890,Heather Kirkland,Corporate,Central,Illinois,Chicago,3,81.62,5.7,0.4,12/31/2024,Active,2
+MV-17485,Mark Van Huff,Consumer,East,New York,New York City,4,533.51,152.63,0.05,12/31/2024,Active,2
+CB-12415,Christy Brittain,Consumer,Central,Illinois,Chicago,4,135.17,-67.54,0.5,12/31/2024,Active,2
+RD-19480,Rick Duston,Consumer,Central,Texas,Houston,3,19.18,5.21,0.2,12/31/2024,Active,2
+BG-11695,Brooke Gillingham,Corporate,East,New York,Watertown,3,41.3,9.7,0.0,12/31/2024,Active,2
+BF-11170,Ben Ferrer,Home Office,West,California,San Francisco,3,17.23,5.43,0.2,12/31/2024,Active,2
+MS-17530,MaryBeth Skach,Consumer,East,Ohio,Fairfield,3,24.61,-10.74,0.55,12/31/2024,Active,2
+BB-11545,Brenda Bowman,Corporate,West,California,Oakland,3,1585.79,80.44,0.133,12/31/2024,Active,2
+SB-20185,Sarah Brown,Consumer,Central,Illinois,Evanston,3,1706.06,481.09,0.2,12/31/2024,Active,2
+LS-16975,Lindsay Shagiari,Home Office,Central,Illinois,Chicago,3,991.53,97.99,0.32,12/31/2024,Active,2
+JF-15355,Jay Fein,Consumer,East,New York,Rochester,3,37.57,8.49,0.0,12/31/2024,Active,2
+GT-14755,Guy Thornton,Consumer,West,California,Long Beach,3,111.09,27.2,0.1,12/31/2024,Active,2
+SE-20110,Sanjit Engle,Consumer,West,California,San Jose,3,241.65,42.77,0.0,12/31/2024,Active,2
+AB-10015,Aaron Bergman,Consumer,Central,Oklahoma,Oklahoma City,3,648.53,116.87,0.0,12/31/2024,Active,2
+SC-20695,Steve Chapman,Corporate,Central,Michigan,Roseville,3,78.8,31.52,0.0,12/31/2024,Active,2
+NC-00001,New Customer 1,Corporate,East,Illinois,Los Angeles,1,4110.15,342.06,0.061,12/31/2024,Active,1
+NC-00002,New Customer 2,Consumer,South,Texas,Los Angeles,4,3552.46,622.73,0.102,12/31/2024,Active,1
+NC-00003,New Customer 3,Consumer,South,Florida,New York City,5,2218.3,662.35,0.061,12/31/2024,Active,1
+NC-00004,New Customer 4,Home Office,West,Illinois,New York City,8,1635.52,478.65,0.277,12/31/2024,Active,1
+NC-00005,New Customer 5,Consumer,West,Illinois,Chicago,5,2098.12,720.31,0.093,12/31/2024,Active,1
+NC-00006,New Customer 6,Home Office,Central,California,Chicago,4,147.07,354.44,0.344,12/31/2024,Active,1
+NC-00007,New Customer 7,Consumer,Central,California,New York City,5,4912.56,580.45,0.029,12/31/2024,Active,1
+NC-00008,New Customer 8,Consumer,South,New York,Houston,2,158.55,532.51,0.155,12/31/2024,Active,1
+NC-00009,New Customer 9,Corporate,Central,Texas,Miami,1,1076.46,470.29,0.045,12/31/2024,Active,1
+NC-00010,New Customer 10,Corporate,South,Texas,Miami,9,1670.52,24.4,0.161,12/31/2024,Active,1
+NC-00011,New Customer 11,Consumer,West,Texas,Los Angeles,6,244.2,543.3,0.208,12/31/2024,Active,1
+NC-00012,New Customer 12,Consumer,Central,New York,New York City,5,2997.9,796.41,0.359,12/31/2024,Active,1
+NC-00013,New Customer 13,Home Office,Central,California,New York City,5,1387.87,528.25,0.289,12/31/2024,Active,1
+NC-00014,New Customer 14,Consumer,West,Illinois,Houston,7,2479.6,19.16,0.224,12/31/2024,Active,1
+NC-00015,New Customer 15,Consumer,East,California,Houston,7,1586.95,218.63,0.397,12/31/2024,Active,1
+NC-00016,New Customer 16,Consumer,West,California,Chicago,6,3624.21,706.33,0.283,12/31/2024,Active,1
+NC-00017,New Customer 17,Home Office,East,California,Chicago,9,4903.57,277.37,0.36,12/31/2024,Active,1
+NC-00018,New Customer 18,Corporate,West,California,New York City,8,2306.58,397.6,0.299,12/31/2024,Active,1
+NC-00019,New Customer 19,Corporate,South,New York,Los Angeles,8,2878.97,427.92,0.012,12/31/2024,Active,1
+NC-00020,New Customer 20,Consumer,West,Florida,Los Angeles,1,4213.05,361.68,0.016,12/31/2024,Active,1
