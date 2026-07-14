@@ -1,0 +1,232 @@
+# 📚 Online Bookstore & Library Management System
+### Data Engineering Capstone Project
+
+## 📌 Project Overview
+
+This project demonstrates how raw business data can be transformed into meaningful business insights using a **Medallion Architecture (Bronze → Silver → Gold)**.
+
+The project is based on an Online Bookstore and Library Management System where information about books, customers, orders, library loans, and reviews is processed through different stages of a data pipeline.
+
+Instead of directly analyzing raw data, the project organizes it into multiple layers so that it becomes clean, reliable, and ready for reporting.
+
+---
+
+# 🎯 Project Goal
+
+The main objective of this project was to simulate how a real Data Engineering team builds a production-ready data pipeline.
+
+The pipeline:
+
+- Stores raw operational data
+- Cleans and validates the data
+- Removes duplicate and invalid records
+- Creates business-ready datasets
+- Generates KPIs for business analysis
+
+---
+
+# 🗂️ Dataset Used
+
+The project works with five operational tables:
+
+| Table | Description |
+|--------|-------------|
+| Books | Stores information about books available for sale and lending |
+| Customers | Customer registration details |
+| Orders | Book purchase transactions |
+| Loans | Library borrowing records |
+| Reviews | Customer ratings and reviews |
+
+---
+
+# 🏗️ Architecture
+
+The project follows the **Medallion Architecture**.
+
+```
+Operational Database
+        │
+        ▼
+   Bronze Layer
+(Raw Data Storage)
+        │
+        ▼
+   Silver Layer
+(Data Cleaning & Validation)
+        │
+        ▼
+    Gold Layer
+(Business Analytics & KPIs)
+```
+
+---
+
+# 🥉 Bronze Layer
+
+The Bronze layer stores the raw data exactly as it arrives from the source.
+
+### Work completed
+
+- Created Bronze tables
+- Added audit columns
+  - `ingested_at`
+  - `batch_id`
+- Loaded data incrementally
+- Implemented watermark logic
+- Prevented duplicate loading
+
+This layer acts as the source of truth.
+
+---
+
+# 🥈 Silver Layer
+
+The Silver layer improves the quality of the data.
+
+### Tasks completed
+
+✔ Removed duplicate records
+
+✔ Standardized text values
+
+✔ Validated business rules
+
+✔ Rejected invalid records
+
+✔ Logged rejected rows
+
+✔ Created derived columns such as
+
+- Order Value
+- Days Overdue
+- Overdue Category
+
+This layer contains clean and trusted data.
+
+---
+
+# 🥇 Gold Layer
+
+The Gold layer is designed for reporting and business analysis.
+
+Instead of storing raw records, it provides summarized business information.
+
+### KPI Views Created
+
+- Monthly Revenue Growth
+- Customer Retention Rate
+- Book Sell Through Rate
+- Library Return Compliance
+- Review Coverage Rate
+
+### Additional Business Views
+
+- Top Performing Books
+- Customer Segmentation
+
+These views help management understand business performance quickly.
+
+---
+
+# 📊 Pipeline Health Monitoring
+
+The project also includes a pipeline monitoring system.
+
+It tracks:
+
+- Last successful load
+- Number of rows processed
+- Number of rejected rows
+- Rejection percentage
+- Pipeline health status
+
+This helps ensure that the pipeline is running correctly.
+
+---
+
+# ⚙️ Concepts Applied
+
+During this project, the following Data Engineering concepts were implemented:
+
+- SQL DDL
+- Incremental Data Loading
+- Watermark Pattern
+- Transactions
+- Data Validation
+- Data Cleaning
+- Window Functions
+- Common Table Expressions (CTEs)
+- CASE Statements
+- Aggregations
+- JOIN Operations
+- Views
+- Data Quality Checks
+- Pipeline Monitoring
+
+---
+
+# 📁 Project Structure
+
+```
+Project
+│
+├── task1_schema.sql
+├── task2_bronze_load.sql
+├── task3_silver_transform.sql
+├── task4_gold_views.sql
+├── task5_audit.sql
+├── pipeline_design.md
+└── README.md
+```
+
+---
+
+# 💡 Business Value
+
+This project demonstrates how an organization can transform raw transactional data into reliable business information.
+
+By separating data into Bronze, Silver, and Gold layers, the system becomes:
+
+- Easier to maintain
+- More reliable
+- Better for reporting
+- Scalable for future growth
+
+---
+
+# 🚀 Key Learnings
+
+Working on this project helped me understand:
+
+- How production data pipelines are designed
+- Why Medallion Architecture is widely used
+- How incremental data loading works
+- Importance of data quality validation
+- Building business-ready analytical views
+- Monitoring pipeline performance
+
+---
+
+# 🛠️ Technologies Used
+
+- SQL
+- MySQL 8+
+- Medallion Architecture
+- Window Functions
+- CTEs
+- Views
+- Data Quality Rules
+
+---
+
+# 👨‍💻 Author
+
+**Shubham Sharma**
+
+Data Engineering Internship Project
+
+```
+
+### Why this project?
+
+This project was completed as part of a Data Engineering assignment to practice designing a production-style ETL pipeline using SQL and the Medallion Architecture. The focus was on transforming raw operational data into clean, trusted, and analytics-ready datasets while following real-world engineering practices.
